@@ -129,6 +129,91 @@
       <change afterPath="$PROJECT_DIR$/../blog-application/src/main/webapp/WEB-INF/category/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog-application/src/main/webapp/WEB-INF/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lesson14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_vi.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin-analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin-job-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin-jobs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin-user-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/admin-users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicant-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dashboard-admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dashboard-employer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dashboard-freelancer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/design-system.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/employer-applicants.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/employer-company-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/employer-job-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/freelancer-applications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/freelancer-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/freelancer-saved-jobs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/job-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jobs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/post-job.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/lesson15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/java/com/codegym/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/java/com/codegym/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/java/com/codegym/controller/CustomSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/java/com/codegym/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/java/com/codegym/security/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/java/com/codegym/security/SecurityInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/webapp/WEB-INF/views/access_denied.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/webapp/WEB-INF/views/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/webapp/WEB-INF/views/dba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson15/spring-security-authorization/src/main/webapp/WEB-INF/views/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/java/com/codegym/CustomerBasicTestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/java/com/codegym/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/webapp/WEB-INF/templates/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/webapp/WEB-INF/templates/customer/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-basic-test/src/main/webapp/WEB-INF/templates/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/service/AbstractEntityServiceImplWithSpringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/java/com/codegym/service/impl/CustomerServiceImplWithSpringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/resources/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/webapp/WEB-INF/templates/customer/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/main/webapp/WEB-INF/templates/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/test/java/com/codegym/DummyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/test/java/com/codegym/controller/CustomerControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/test/java/com/codegym/controller/CustomerControllerTestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/test/java/com/codegym/service/CustomerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson16/customer-management-testing/src/test/java/com/codegym/service/CustomerServiceTestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/first-spring-boot/src/main/java/com/codegym/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/first-spring-boot/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/springboot-jwt-demo/src/main/java/com/codegym/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/springboot-jwt-demo/src/main/java/com/codegym/controller/UserRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/springboot-jwt-demo/src/main/java/com/codegym/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/springboot-jwt-demo/src/main/java/com/codegym/rest/CustomAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/springboot-jwt-demo/src/main/java/com/codegym/rest/JwtAuthenticationTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/springboot-jwt-demo/src/main/java/com/codegym/service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson17/springboot-jwt-demo/src/main/java/com/codegym/service/UserService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../lesson3/lesson3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../lesson4/lesson4.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../lesson4/song-upload-app/src/main/java/com/codegym/songuploadapp/configuration/AppConfiguration.java" afterDir="false" />
@@ -189,6 +274,7 @@
       <change afterPath="$PROJECT_DIR$/../../lesson9/customer-manage-exception-handler/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../lesson9/customer-manage-exception-handler/src/main/webapp/WEB-INF/views/update.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../lesson9/customer-manage-exception-handler/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../my-project/src/main/java/com/example/my_project/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../module3.1/baikiemtra/src/main/java/org/example/baikiemtra/controller/RoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module3.1/baikiemtra/src/main/java/org/example/baikiemtra/controller/RoomController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../module3.1/baikiemtra/src/main/java/org/example/baikiemtra/dao/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module3.1/baikiemtra/src/main/java/org/example/baikiemtra/dao/DBConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../module3.1/baikiemtra/src/main/java/org/example/baikiemtra/dao/PaymentMethodDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module3.1/baikiemtra/src/main/java/org/example/baikiemtra/dao/PaymentMethodDAO.java" afterDir="false" />
@@ -221,6 +307,9 @@
       <change beforePath="$PROJECT_DIR$/../../../module3.1/lesson9/product_discount_calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../module3.1/lesson9/product_discount_calculator/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lesson1/Dictionary/src/main/java/com/codegym/dictionary/controller/DictionaryController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lesson1/Dictionary/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/configuration/AppInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lesson2/customer-list-management/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson2/customer-list-management/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lesson3/product-management/src/main/java/com/codegym/productmanagement/configuration/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson3/product-management/src/main/java/com/codegym/productmanagement/configuration/AppConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lesson3/product-management/src/main/java/com/codegym/productmanagement/configuration/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson3/product-management/src/main/java/com/codegym/productmanagement/configuration/AppInit.java" afterDir="false" />
@@ -364,8 +453,15 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -377,19 +473,30 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/module4/lesson14/spring-security&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/module4/lesson14/spring-security/src/main/webapp/WEB-INF&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\module4\lesson14\spring-security\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\module4\lesson14\spring-security\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="spring-security" />
@@ -508,6 +615,10 @@
       <workItem from="1754016906747" duration="6657000" />
       <workItem from="1754034512797" duration="280000" />
       <workItem from="1754037895536" duration="3385000" />
+      <workItem from="1754226469884" duration="478000" />
+      <workItem from="1754271990971" duration="1817000" />
+      <workItem from="1754278282147" duration="4738000" />
+      <workItem from="1754618413245" duration="214000" />
     </task>
     <servers />
   </component>
